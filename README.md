@@ -5,10 +5,8 @@
 Help me to get better equipament and books to study.   
 Also to buy food to me, my mother and to two rescued animals.     
 
-![Picpay](https://picpay.me/spacexdinosaur)  
-
-![Paypal]()    
+![donate](https://github.com/spacexjedi/spacexjedi/blob/master/donate.md)    
 
 You can offer me a job:   
 
-![Contact](https://github.com/spacexjedi/spacexjedi/blob/master/contact.md)    
+![Contact](https://github.com/spacexjedi/spacexjedi/blob/master/contact.md)      
