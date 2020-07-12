@@ -1,5 +1,5 @@
 send me a whispers there  
-![](https://www.twitch.tv/spacex_jedi)  
+![Twitch](https://www.twitch.tv/spacex_jedi)  
 
 
 Weird?  
