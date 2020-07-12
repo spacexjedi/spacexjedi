@@ -9,4 +9,4 @@ Also to buy food to me, my mother and to two rescued animals.
 
 You can offer me a job:   
 
-![Contact](https://github.com/spacexjedi/spacexjedi/blob/master/contact.md)      
+![contact](https://github.com/spacexjedi/spacexjedi/blob/master/contact.md)      
