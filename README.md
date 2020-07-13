@@ -3,14 +3,13 @@
 
 <img align="right" width="274" height="237" src="https://media.giphy.com/media/ff0dv4KMGxjna/source.gif">
 
-```golang
-package main
+```c
+include<stdio.h>
 
-import "fmt"
 
-func main() {
+void main() {
 
-fmt.Println("Help me to get better equipament and books to study.   
+Println("Help me to get better equipament and books to study.   
 Also to buy food to me, my mother and to two rescued animals.")  
 
 }
