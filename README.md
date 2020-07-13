@@ -1,9 +1,20 @@
 # spacexjedi
 
-![](https://media.giphy.com/media/ff0dv4KMGxjna/source.gif)  
 
-Help me to get better equipament and books to study.   
-Also to buy food to me, my mother and to two rescued animals.     
+<img align="right" width="274" height="237" src="https://media.giphy.com/media/ff0dv4KMGxjna/source.gif">
+
+```
+package main
+
+import "fmt"
+
+func main() {
+
+fmt.Println ("Help me to get better equipament and books to study.   
+Also to buy food to me, my mother and to two rescued animals.")  
+
+}
+```
 
 [![donate](https://github.com/spacexjedi/spacexjedi/blob/master/donate/don.jpg)](https://github.com/spacexjedi/spacexjedi/blob/master/donate/donate.md)    
   
