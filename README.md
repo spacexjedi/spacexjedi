@@ -10,7 +10,7 @@ import "fmt"
 
 func main() {
 
-fmt.Println ("Help me to get better equipament and books to study.   
+fmt.Println("Help me to get better equipament and books to study.   
 Also to buy food to me, my mother and to two rescued animals.")  
 
 }
