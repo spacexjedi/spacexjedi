@@ -4,4 +4,4 @@
 
 ![](https://github.com/spacexjedi/spacexjedi/blob/master/album/images/img3.jpg)   
 
-[![webpage 💻](https://img.shields.io/badge/%F0%9F%92%BB-webpage-9cf)] ```still building```     
+[![](https://img.shields.io/badge/%F0%9F%92%BB-webpage-9cf)]()   ```still building```       
