@@ -9,7 +9,7 @@
 void main() {
 
 Println("Help me to get better equipament and books to study.   
-Also to buy food to me, my mother and to two rescued animals.")  
+Also to buy food to me, my mother and to two rescued animals");    
 
 }
 ```
