@@ -4,13 +4,9 @@
 <img align="right" width="274" height="237" src="https://media.giphy.com/media/ff0dv4KMGxjna/source.gif">
 
 ```
-package main
+def print_(): {
 
-import "fmt"
-
-func main() {
-
-fmt.Println ("Help me to get better equipament and books to study.   
+print("Help me to get better equipament and books to study.   
 Also to buy food to me, my mother and to two rescued animals.")  
 
 }
