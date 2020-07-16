@@ -5,7 +5,7 @@
 
 ```c
 #include<stdio.h>
-
+/* autist */
 void main() {
 
 printf("Help me to get better equipament and books to study.   
