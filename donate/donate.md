@@ -2,7 +2,7 @@
 ### Paypal
 
 ![Paypal]()      ```not working```   
-![Paypal]()  
+
 
 
 ### Picpay
