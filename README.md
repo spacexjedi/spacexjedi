@@ -3,13 +3,13 @@
 
 <img align="right" width="274" height="237" src="https://media.giphy.com/media/ff0dv4KMGxjna/source.gif">
 
-```javascript
+```c
 #include<stdio.h>
 /* autist */
-function main() {
+void main() {
 
-console.log("Interesses: livros, animais, desenhos e algumas séries de TV, desenhar, linguagens de programação, países nórdicos, arquivologia, ciência da Informação e direito,exploração espacial, dinossauros,  recentemente comecei a aprender mais sobre jardinagem e crochê. Curiosidades: Eu fiz dois anos de violão e um ano de Kung Fu.Help me to get better equipament and books to study.   
-Also to buy food to me, my mother and to two rescued animals");    
+printf("Interesses: livros, animais, desenhos, algumas séries de TV e filmes, desenhar, linguagens de programação, países nórdicos, ciência da Informação e direito, exploração espacial, dinossauros,  recentemente comecei a aprender mais sobre jardinagem e crochê.\n
+Curiosidades: Eu fiz dois anos de violão e um ano de Kung Fu.");    
 
 }
 ```
