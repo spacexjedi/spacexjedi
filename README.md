@@ -8,7 +8,7 @@
 /* autist */
 function main() {
 
-console.log("Help me to get better equipament and books to study.   
+console.log("Interesses: livros, animais, desenhos e algumas séries de TV, desenhar, linguagens de programação, países nórdicos, arquivologia, ciência da Informação e direito,exploração espacial, dinossauros,  recentemente comecei a aprender mais sobre jardinagem e crochê. Curiosidades: Eu fiz dois anos de violão e um ano de Kung Fu.Help me to get better equipament and books to study.   
 Also to buy food to me, my mother and to two rescued animals");    
 
 }
