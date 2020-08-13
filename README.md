@@ -8,8 +8,7 @@
 /* autist */
 void main() {
 
-printf("Interesses: livros, animais, desenhos, algumas séries de TV e filmes, desenhar, linguagens de programação, países nórdicos, ciência da informação e direito, exploração espacial, dinossauros,  recentemente comecei a aprender mais sobre jardinagem e crochê.\n
-Curiosidades: Fiz um ano de violão e um ano de Kung Fu.");    
+printf("Books");    
 
 }
 ```
