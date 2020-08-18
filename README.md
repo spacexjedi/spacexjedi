@@ -5,7 +5,7 @@
 
 ```c
 #include<stdio.h>
-/* autist */
+/* quiet */
 void main() {
 
 printf("Books");    
