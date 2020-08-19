@@ -8,7 +8,7 @@
 /* autist */
 void main() {
 
-printf("Books");    
+printf("I use Github only to study and learn.");    
 
 }
 ```
