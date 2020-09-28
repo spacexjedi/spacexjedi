@@ -13,11 +13,9 @@ printf("Technology | Law | Mathematics");
 }
 ```
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![UX](https://img.shields.io/badge/%F0%9F%96%96-UX-9cf)
-![C](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=white&color=00bfff)  
+
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
 
 [![pet-album](https://img.shields.io/badge/%F0%9F%93%B8-album-9cf)](https://github.com/spacexjedi/spacexjedi/blob/master/album/images/screenshoot.md)  
 
