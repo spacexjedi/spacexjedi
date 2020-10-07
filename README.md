@@ -8,7 +8,7 @@
 /* autist */
 void main() {
 
-printf("Technology | Law | Mathematics");    
+printf("Law | Mathematics");    
 
 }
 ```
