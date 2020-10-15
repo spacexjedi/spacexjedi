@@ -9,7 +9,6 @@
 void main() {
 // Recht und Mathematik
 printf("Law | Mathematics");    
-
 }
 ```
 
