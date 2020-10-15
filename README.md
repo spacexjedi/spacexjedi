@@ -7,7 +7,7 @@
 #include<stdio.h>
 /* autist */
 void main() {
-
+// Recht und Mathematik
 printf("Law | Mathematics");    
 
 }
