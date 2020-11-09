@@ -8,7 +8,7 @@
 /* autist */
 void main() {
 // Recht und Mathematik
-printf("Law | Mathematics");    
+printf("I made this account during 2020 lockdown. IDEs: Replit, Gitpod, Collab. ");    
 }
 ```
 
