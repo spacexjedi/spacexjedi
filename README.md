@@ -8,7 +8,8 @@
 /* autist */
 void main() {
 // Recht und Mathematik
-printf("I made this account during 2020 lockdown. IDEs: Replit, Gitpod, Collab.");    
+printf("I made this acc during 2020 lockdown.\n
+IDEs: Replit, Gitpod, Collab.");    
 }
 ```
 
