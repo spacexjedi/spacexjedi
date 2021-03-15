@@ -7,8 +7,7 @@
 #include<stdio.h>
 
 void main() {
-printf("I made this acc during 2020 lockdown.\n
-IDEs: Replit, Gitpod, Collab.");    
+printf("IDEs: Replit, Gitpod, Collab.");    
 }
 ```
 
