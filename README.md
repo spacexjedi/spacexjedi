@@ -7,7 +7,7 @@
 #include<stdio.h>
 
 void main() {
-printf("IDEs: Replit, Gitpod, Collab.");    
+printf("xD");    
 }
 ```
 
