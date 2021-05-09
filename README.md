@@ -7,7 +7,7 @@
 #include<stdio.h>
 
 void main() {
-printf("living inside my mind");    
+printf("xD");    
 }
 ```
 
